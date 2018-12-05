@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".implicit.Intent.ImplicitIntent">
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_url"
+        android:hint="http://developer.android.com"
+        android:layout_margin="16dp"
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:background="@android:color/holo_blue_bright"
+        android:text="Open website"
+        android:onClick="openWebsite"
+        />
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Golden Gate Bridge"
+        android:id="@+id/editText_location"
+        android:layout_margin="16dp"/>
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Open Location"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:background="@android:color/holo_blue_bright"
+        android:onClick="openLocation"/>
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_share"
+        android:hint="Twas brilliant and the slithes toves"
+        android:layout_margin="16dp" />
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Share this Text"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:onClick="shareText"
+        android:background="@android:color/holo_blue_bright"/>
+</LinearLayout>

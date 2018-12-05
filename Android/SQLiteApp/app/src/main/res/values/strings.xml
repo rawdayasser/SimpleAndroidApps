@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteApp</string>
+    <string name="no_records_found">No Records found..</string>
+    <string name="add_record">add record</string>
+    <string name="enter_title">enter title</string>
+    <string name="enter_description">enter description</string>
+    <string name="btn_update">update</string>
+    <string name="btn_delete">delete</string>
+</resources>

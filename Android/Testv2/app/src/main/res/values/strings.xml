@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Testv2</string>
+    <string name="content">Hawaii\'s diverse natural scenery, warm tropical climate, abundance of public beaches, oceanic surroundings, and active volcanoes make it a popular destination for tourists, surfers, biologists, and volcanologists. Because of its central location in the Pacific and 19th-century labor migration, Hawaii\'s culture is strongly influenced by North American and East Asian cultures, in addition to its indigenous Hawaiian culture. Hawaii has over a million permanent residents, along with many visitors and U.S. military personnel. Its capital is Honolulu on the island of Oʻahu.
+
+Hawaii is the 8th-smallest and the 11th-least populous, but the 13th-most densely populated of the 50 U.S. states. It is the only state with an Asian plurality. The state\'s oceanic coastline is about 750 miles (1,210 km) long, the fourth longest in the U.S. after the coastlines of Alaska, Florida, and California.
+    Hawaii\'s diverse natural scenery, warm tropical climate, abundance of public beaches, oceanic surroundings, and active volcanoes make it a popular destination for tourists, surfers, biologists, and volcanologists. Because of its central location in the Pacific and 19th-century labor migration, Hawaii\'s culture is strongly influenced by North American and East Asian cultures, in addition to its indigenous Hawaiian culture. Hawaii has over a million permanent residents, along with many visitors and U.S. military personnel. Its capital is Honolulu on the island of Oʻahu.
+
+Hawaii is the 8th-smallest and the 11th-least populous, but the 13th-most densely populated of the 50 U.S. states. It is the only state with an Asian plurality. The state\'s oceanic coastline is about 750 miles (1,210 km) long, the fourth longest in the U.S. after the coastlines of Alaska, Florida, and California.
+    Hawaii\'s diverse natural scenery, warm tropical climate, abundance of public beaches, oceanic surroundings, and active volcanoes make it a popular destination for tourists, surfers, biologists, and volcanologists. Because of its central location in the Pacific and 19th-century labor migration, Hawaii\'s culture is strongly influenced by North American and East Asian cultures, in addition to its indigenous Hawaiian culture. Hawaii has over a million permanent residents, along with many visitors and U.S. military personnel. Its capital is Honolulu on the island of Oʻahu.
+
+Hawaii is the 8th-smallest and the 11th-least populous, but the 13th-most densely populated of the 50 U.S. states. It is the only state with an Asian plurality. The state\'s oceanic coastline is about 750 miles (1,210 km) long, the fourth longest in the U.S. after the coastlines of Alaska, Florida, and California.
+    Hawaii's diverse natural scenery, warm tropical climate, abundance of public beaches, oceanic surroundings, and active volcanoes make it a popular destination for tourists, surfers, biologists, and volcanologists. Because of its central location in the Pacific and 19th-century labor migration, Hawaii's culture is strongly influenced by North American and East Asian cultures, in addition to its indigenous Hawaiian culture. Hawaii has over a million permanent residents, along with many visitors and U.S. military personnel. Its capital is Honolulu on the island of Oʻahu.
+
+Hawaii is the 8th-smallest and the 11th-least populous, but the 13th-most densely populated of the 50 U.S. states. It is the
+    </string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="title_activity_droid_main">Droid Cafe</string>
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="order">Order</string>
+    <string name="google_mtv_coord_zoom12">geo:37.422114,-122.086744?z=12</string>
+</resources>

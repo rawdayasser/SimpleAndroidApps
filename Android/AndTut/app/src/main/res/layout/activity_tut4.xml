@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Restaurant.Tut4"
+    android:orientation="vertical"
+    >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1"
+        android:layout_alignParentBottom="true"
+        >
+
+        <TableRow>
+            <TextView
+                android:id="@+id/nametv"
+                android:text="Name :"
+
+                />
+            <EditText android:id="@+id/nameet"
+                />
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:id="@+id/addresstv"
+                android:text="Address"
+                />
+            <EditText
+                android:id="@+id/addresset"
+                />
+
+        </TableRow>
+        <TableRow>
+            <TextView
+                android:id="@+id/typetv"
+                android:text="Type"
+                />
+            <RadioGroup android:id="@+id/typerg">
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Take_out"
+                    android:checked="true"
+                    android:id="@+id/takeout_rb"/>
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Sit_down"
+                    android:id="@+id/sitdown_rb"/>
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Delivery"
+                    android:id="@+id/delivery_rb"/>
+
+            </RadioGroup>
+        </TableRow>
+        <Button
+            android:id="@+id/saveBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            />
+    </TableLayout>
+
+        <ListView
+            android:id="@+id/restaurants_lv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            >
+
+
+        </ListView>
+
+</RelativeLayout>

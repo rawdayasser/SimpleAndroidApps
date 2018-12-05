@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleTest</string>
+    <string name="replies">Your replies</string>
+    <string name="send">send</string>
+    <string name="messageHint">Enter your message here</string>
+    <string name="reply">reply</string>
+    <string name="replyHint">Enter your reply here</string>
+    <string name="implicitIntent">Implicit Intent</string>
+    <string-array name="arrData">
+        <item>Mama</item>
+        <item>Papa</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
